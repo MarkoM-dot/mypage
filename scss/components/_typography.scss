@@ -8,6 +8,7 @@
         display: inline-block;
         font-weight: 700;
         font-family: 'PT Sans', sans-serif;
+        font-display: swap;
     }
     &--description{
         font-size: 1.5rem;
@@ -16,6 +17,7 @@
         margin-top: 1.2rem;
         font-family: 'PT Sans', sans-serif;
         text-transform: none;
+        font-display: swap;
     }
 }
 
@@ -30,4 +32,5 @@
 
 .display-3{
     font-family: 'PT Sans', sans-serif;
+    font-display: swap;
 }
